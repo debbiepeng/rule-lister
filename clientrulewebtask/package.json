@@ -1,0 +1,11 @@
+{
+  "name": "client-rule-webtask",
+  "version": "1.0.0",
+  "description": "A webtask that provides the persisting and retrieving of data related to a list of auth0 clients and their rules. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wei Croteau",
+  "license": "ISC"
+}
